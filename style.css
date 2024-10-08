@@ -1,0 +1,155 @@
+body{
+    background-color: aliceblue;
+    
+}
+
+.header{
+        background-image: url(https://miro.medium.com/v2/resize:fit:1400/1*JHbpPa0TugDyymxEWgdYVA.jpeg);
+        padding-top: 20px;
+        background-size:cover;
+        margin-top: 20px;
+        font-family: 'Covered By Your Grace';
+        font-style: normal;
+        font-weight: 400px;
+        text-align: center;
+        font-size: 60px;
+        height: 400px;
+        color: #462f33;
+        padding-top: 80px;
+    }
+
+div{
+    background-color:  white;
+    weight: 60px;
+    height: auto;
+    background-repeat: no-repat;
+    
+}
+
+body{
+    background-color: #ece2d7;
+
+}
+
+.notetext{
+    text-align: center; 
+}
+.notetext h3 {
+    color: #1b1515;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 250;
+    text-align: center;
+    font-size: x-large;
+    }
+.notetext p {
+    color: #555454;
+}
+
+h3{
+    font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 250;
+  text-align: center;
+  font-size: x-large;
+  color: #412b2e;
+}
+p{
+    text-align: center;
+    color: #a19d98;
+}
+ul li{
+    color: #e5ba95;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 1px;
+    text-decoration: none;
+    list-style: none;
+}
+a{
+    font-family: ;
+    font-style: normal;
+    color: #305940;
+    font-weight: 600;
+}
+
+.container{
+    padding: 100px;
+    background-color: #dfdac2;
+}
+
+h5{
+    color: #ffffff;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+}
+
+h4{
+    color: #ffffff;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+}
+
+h2{
+    font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+}
+
+hr{
+    color: #f5dac1
+}
+
+.green{
+    background-color: #a0c9a1;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 510;
+    font-size: 25px;
+    padding: 10px;
+    }
+.light{
+    background-color: #c27754;
+    font-family: 'Raleway';
+    font-style: normal #ffffff;
+    font-weight: 510;
+    padding: 10px;
+    font-size: 25px;
+    }
+
+ .city{
+    background-color: #b26939;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 510;
+    padding: 10px;
+    font-size: 25px;
+    }
+    
+ .vienna{
+    background-color: #c24545;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 510;
+    padding: 10px;
+    font-size: 25px;
+    }
+    
+.italian{
+    background-color: #1d1c1c;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 510;
+    padding: 10px;
+    font-size: 25px;
+    }
+    
+.roasting{
+    background-color: white;
+   
+    color: #000000;
+    font-size: 20px;
+    }
